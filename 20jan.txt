@@ -35,7 +35,7 @@
 <meta name="twitter:app:url:googleplay" content="etsy://listing/1790774795?ref=TwitterProductCard" value="" />
 <meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
 <meta property="og:title" content="Slot DANA Gacor! Deposit 10K Tanpa Potongan & RTP Tinggi" />
-<meta property="og:description" content="Cukup modal deposit 10K tanpa potongan admin, kamu langsung bisa pilih game slot favorit dan jackpot melimpah. Nikmati kemudahan bermain slot DANA gacor dengan RTP tinggi hanya di SLOT DANA!" / />
+<meta property="og:description" content="Cukup modal deposit 10K tanpa potongan admin, kamu langsung bisa pilih game slot favorit dan jackpot melimpah. Nikmati kemudahan bermain slot DANA gacor dengan RTP tinggi hanya di SLOT DANA!" />
 <meta property="og:type" content="product" />
 <meta property="og:url" content="https://jurnal.stiksam.ac.id/" />
 <meta property="og:image" content="https://ik.imagekit.io/e5jpe4toy/SLOT-DANA.png" />
